@@ -96,3 +96,9 @@ footer{
     color: var(--black);
     text-decoration: none;
 }
+.cart1 h1{
+    color: var(--black);
+}
+.cart1 p{
+    color: var(--white);
+}
